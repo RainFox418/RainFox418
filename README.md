@@ -1,18 +1,28 @@
-# Rain Fox
-**AI Data Annotator & Multimodal Evaluator & AI Red Teamer**
+Hi, I'm Rain.
 
-## About Me
+I'm an AI trainer, red teamer, writer, artist, and independent AI researcher interested in what happens when we stop treating models as black boxes and start experimenting with the systems around them. I have a background in cybersecurity (Georgia Southern University - Information Technology with Cybersecurity focus) and am currently working on a computer science degree.
 
-If you're looking to hire, you've come to the right place.
+My work and research sit at the intersection of AI behavior, local models, multimodal systems, adversarial testing, synthetic personality, human-AI interaction, and creative technology.
 
-I've been annotating data and evaluating AI for leading AI companies for over 7 years now. I've worked on everything you can imagine under the sun to help Artificial Intelligence systems become as safe, helpful, and dopamine-engaging as possible. In the beginning, I started out doing parts of speech tagging, named entity recognition, bounding boxes, and other nlp tasks. Since then, I've come a long way, working across text, image, video, audio, gaming, and multi-modal projects. I've contributed to endless datasets across every modality, engineered prompts, and I've evaluated for personality, behavior, helpfulness, and safety. I've written endless golden responses across conversational, knowledge, creative writing, and safety responses. I've checked endless facts to weed out hallucinations. I've worked on humor, personality, and emotions. I wanted to work on adult but haven't gotten to it yet, other than stripping it out. I've stripped out the anthro, and I've written the anthro, depending on the needs of the project. I'm a rule follower, a rubric worshipper, a guidelines rereader, and I've taught myself how to move fast, thrive on adrenaline, adapt quickly, and enjoy the addiction of helping build a fine product to be proud of.
+I have 8 years of experience working with AI training and evaluation, including conversational systems, multimodal evaluation, adversarial testing, annotation, QA, prompt design, and model behavior analysis. You name it, I've worked on it or evaluated it in some way, across a wide range of projects for various frontier labs under nda.
 
-Every company and every project is different, and I honor all clients' privacy, needs, and wants for their models at all times, compartmentalizing where needed while using the experience that carries over to constantly improve my skills to create better results.  I've worked on some really interesting red teaming projects with multi-modal around everything from political misinformation, bias, deep fakes, violence, mental health, current events, news, racism, anti-terrorism, and so on. I *love* testing products before launch for safety. I've tested sophisticated multi-modal jailbreaks involving image and text combinations. I've worked quite extensively on creative writing projects as well, incorporating my fiction writing skills into improving a model's ability to write well.
+🔬 What I'm Exploring
 
-Creative writing, red teaming, and video are my passion projects within AI and I also work on those outside of work. I carry out my own private research evaluating frontier models to compare and contrast strengths and weaknesses to keep my knowledge of them as up to date as possible. I also work on local llms in my home lab. I've had rubric training. I've worked on GPS. Some military things. Lately, I've been branching into robotics applications and looking for more sophisticated work in other burgeoning areas that you might be aware of. I've worked on everything, and my curiosity and desire to learn and break drives me ever onward, always stretching out into the frontiers. My background as an autodidact writer and artist means I can write incredibly creative and outside-the-box prompts to test systems in ways that others might not think of. My boldness and integrity ensure you get what you want while I honor your boundaries.
+Right now, I'm especially interested in:
 
-My education has been a long and winding road. I started out with three years in the early 2000s taking English Literature, then switched to Studio Art at a small community college. I contributed charcoal drawings and paintings to art shows. I've engaged in creative writing since I was a teenager, studied journalism, contributed to creative writing literary reviews, college magazines, etc. I've written novels, short stories, and poetry across several genres. I've been published and self-published under pen names as I prefer to keep my professional lives separate. My favorite genres are Southern Gothic, high art literary fiction, experimental, gothic, psychological horror, occult, and dark fantasy romance, which gives me that extra edge at red teaming, as you might expect. I moved on to Information Technology with a minor in Cybersecurity at Georgia Southern after that, where I loved studying cybersecurity tools with an emphasis on red teaming from a white hat prospective. I have enjoyed engaging in Capture the Flag events, especially around cracking codes and puzzles, steganography, etc. From there, I moved into a Computer Science degree at Maestro University, and I have been delving more and more into math and coding as my interests around working with local models and vibe coding have increased.
+Local LLM experimentation and comparative model behavior
+Red teaming and adversarial evaluation
+Model personality, memory, and conversational continuity
+Reasoning behavior and the effects of thinking modes
+Quantization and how compression changes model behavior
+Multimodal AI, especially vision-language models
+AI agents, browser automation, and tool use
+DOM and visual interpretation for browser agents
+Prompting, system architecture, and chat templates
+Human-AI creative collaboration
 
-My philosophy of life has always emphasized constant life-long learning. I'm an information collector and pattern-seer who thrives on data collection and manipulation. I'm particularly good at finding AI-isms and repetitive patterns in AI systems that need to be weeded out. I also believe very strongly in the mission of the United States to win the AI race. This isn't just a job or a paycheck for me. I take this work very seriously. I also derive immense satisfaction and purpose from knowing my work has contributed to keeping the public and our country safe, and I continue to look for ever more challenging work in those areas to have a bigger impact.
+I particularly enjoy testing the difference between what a model is supposed to do and what it actually does.
 
-Pay me well and turn me loose on your systems, and I will turn lead into gold for you.
+🧪 Current Experiments
+
+I'm building a small local AI laboratory using models running through LM Studio, experimenting with different model families, quantizations, system prompts, reasoning configurations, and inherited conversation histories. My curiosity is never ending.
