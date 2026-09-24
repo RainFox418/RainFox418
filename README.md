@@ -1,6 +1,6 @@
 Hi, I'm Rain.
 
-I'm an AI trainer, red teamer, writer, artist, and independent AI researcher interested in what happens when we stop treating models as black boxes and start experimenting with the systems around them. I have a background in cybersecurity (Georgia Southern University - Information Technology with Cybersecurity focus) and am currently working on a computer science degree.
+I'm an AI trainer, red teamer, writer, artist, and independent AI researcher interested in what happens when we stop treating models as black boxes and start experimenting with the systems around them. I have coursework in Information Technology with a cybersecurity focus, and I'm currently earning my B.S. in Computer Science at Maestro College.
 
 My work and research sit at the intersection of AI behavior, local models, multimodal systems, adversarial testing, synthetic personality, human-AI interaction, and creative technology.
 
